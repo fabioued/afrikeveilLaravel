@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'home'              => 'acceuil',
+    'notreOrganisation' => 'notre-organisation',
+    'notreHistoire'     => 'notre-histoire',
+    'notreEquipe'       => 'notre-equipe',
+    'howWeWork'         => 'ce-que-nous-faisons',
+    'areYouInterrested' => 'etes-vous-interessé',
+    'ourNews'           => 'nos-nouvelles',
+    'blog'              => 'nos-blogs',
+    'contactUs'         => 'contactez-nous',
+    'ressources'        => 'nos-ressources',
+    'index'             => 'tableau-de-bord',
+    'post.index'        => 'tous-les-posts',
+    'post.create'       => 'nouveau-post',
+    'post.trashed'      => 'corbeille',
+    'category.create'   => 'nouvelle-catégorie',
+    'category.index'    => 'toutes-les-catégories',
+    'tags.create'       => 'nouveau-tag',
+    'tags.index'        => 'tous-les-tags',
+    'users.index'       => 'tous-les-utilisateurs',
+    'users.create'      => 'créer-utilisateur',
+    'settings.index'    => 'tous-les-paramètres',
+    'settings.update'   => 'modifier-les-paramètres',
+    'users.my.profile'  => 'mon-profile',
+];

@@ -1,0 +1,19 @@
+
+
+marquee{
+    background: rgba(237, 237, 237,0.8);
+    margin-bottom: 40px;
+    margin-top: 5px;
+    display: block;
+    color: red;
+}
+
+.ticker-left li a{
+    color: red;
+}
+.ticker-left li {
+    display: inline-block;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 40px;
+}
